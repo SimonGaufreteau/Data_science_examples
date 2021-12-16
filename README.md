@@ -11,5 +11,8 @@ Models used :
 - KNeighbors
 - SVC 
 
+## Notes
+Comments are in French but the code is mainly in English.
+
 ## Credits
 Gaufreteau Simon & Gassion Axel
